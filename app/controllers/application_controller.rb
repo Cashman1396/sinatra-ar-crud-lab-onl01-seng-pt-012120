@@ -36,9 +36,9 @@ class ApplicationController < Sinatra::Base
     redirect to "/articles/#{@article.id}"
   end
 
-  
 
-  
+
+
 
 
 
